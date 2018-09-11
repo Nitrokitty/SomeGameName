@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 68e792afbd2e17b469015135a87d9b29
+timeCreated: 1507404947
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: coda1
+    100004: coda2
+    100006: coda3
+    100008: coda4
+    100010: coda5
+    100012: coda6
+    100014: coda7
+    100016: corpo
+    100018: corpo1
+    100020: corpo2
+    100022: corpo3
+    100024: corpo4
+    100026: corpo5
+    100028: corpo6
+    100030: L_A
+    100032: L_A1
+    100034: L_A2
+    100036: L_A3
+    100038: L_A4
+    100040: L_A5
+    100042: L_B
+    100044: L_B1
+    100046: L_B2
+    100048: L_B3
+    100050: L_B4
+    100052: L_B5
+    100054: L_B6
+    100056: L_C
+    100058: L_C1
+    100060: L_C2
+    100062: L_C3
+    100064: L_C4
+    100066: L_C5
+    100068: L_C6
+    100070: L_chela1
+    100072: L_chela2
+    100074: L_chela3
+    100076: L_chela4
+    100078: L_chela5
+    100080: L_D
+    100082: L_D1
+    100084: L_D2
+    100086: L_D3
+    100088: L_D4
+    100090: L_D5
+    100092: L_D6
+    100094: R_A
+    100096: R_A1
+    100098: R_A2
+    100100: R_A3
+    100102: R_A4
+    100104: R_A5
+    100106: R_B
+    100108: R_B1
+    100110: R_B2
+    100112: R_B3
+    100114: R_B4
+    100116: R_B5
+    100118: R_B6
+    100120: R_C
+    100122: R_C1
+    100124: R_C2
+    100126: R_C3
+    100128: R_C4
+    100130: R_C5
+    100132: R_C6
+    100134: R_chela1
+    100136: R_chela2
+    100138: R_chela3
+    100140: R_chela4
+    100142: R_chela5
+    100144: R_D
+    100146: R_D1
+    100148: R_D2
+    100150: R_D3
+    100152: R_D4
+    100154: R_D5
+    100156: R_D6
+    100158: scorpione
+    100160: //RootNode
+    100162: scorpione_0
+    100164: scorpione_MeshPart0
+    100166: scorpione_MeshPart1
+    400000: Armature
+    400002: coda1
+    400004: coda2
+    400006: coda3
+    400008: coda4
+    400010: coda5
+    400012: coda6
+    400014: coda7
+    400016: corpo
+    400018: corpo1
+    400020: corpo2
+    400022: corpo3
+    400024: corpo4
+    400026: corpo5
+    400028: corpo6
+    400030: L_A
+    400032: L_A1
+    400034: L_A2
+    400036: L_A3
+    400038: L_A4
+    400040: L_A5
+    400042: L_B
+    400044: L_B1
+    400046: L_B2
+    400048: L_B3
+    400050: L_B4
+    400052: L_B5
+    400054: L_B6
+    400056: L_C
+    400058: L_C1
+    400060: L_C2
+    400062: L_C3
+    400064: L_C4
+    400066: L_C5
+    400068: L_C6
+    400070: L_chela1
+    400072: L_chela2
+    400074: L_chela3
+    400076: L_chela4
+    400078: L_chela5
+    400080: L_D
+    400082: L_D1
+    400084: L_D2
+    400086: L_D3
+    400088: L_D4
+    400090: L_D5
+    400092: L_D6
+    400094: R_A
+    400096: R_A1
+    400098: R_A2
+    400100: R_A3
+    400102: R_A4
+    400104: R_A5
+    400106: R_B
+    400108: R_B1
+    400110: R_B2
+    400112: R_B3
+    400114: R_B4
+    400116: R_B5
+    400118: R_B6
+    400120: R_C
+    400122: R_C1
+    400124: R_C2
+    400126: R_C3
+    400128: R_C4
+    400130: R_C5
+    400132: R_C6
+    400134: R_chela1
+    400136: R_chela2
+    400138: R_chela3
+    400140: R_chela4
+    400142: R_chela5
+    400144: R_D
+    400146: R_D1
+    400148: R_D2
+    400150: R_D3
+    400152: R_D4
+    400154: R_D5
+    400156: R_D6
+    400158: //RootNode
+    400160: scorpione
+    400162: scorpione_0
+    400164: scorpione_MeshPart0
+    400166: scorpione_MeshPart1
+    4300000: scorpione_MeshPart0
+    4300002: scorpione_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: scorpione_MeshPart0
+    13700002: scorpione_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
